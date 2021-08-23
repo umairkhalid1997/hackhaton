@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;600&display=swap');
+
+
+body {
+    /* background-size: cover; */
+
+    background-image: url(images/39374136.png);
+    font-family: 'Montserrat', sans-serif;
+}
+.btn:hover{
+    color: rgb(0, 2, 2);
+}
+
+.bttn > button:hover{
+    color: white;
+}
